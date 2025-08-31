@@ -1,0 +1,5 @@
+FROM python:3.10
+WORKDIR /app
+COPY log_viewer.py .
+RUN pip install flask
+CMD ["python", "log_viewer.py"]

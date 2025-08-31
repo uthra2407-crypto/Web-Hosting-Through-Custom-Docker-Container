@@ -1,0 +1,611 @@
+[INFO] 2025-04-06 13:01:09 - Autoscaler initialized
+[INFO] 2025-04-06 13:01:09 - Monitoring started
+[INFO] 2025-04-06 13:01:10 - CPU usage: 9.7%
+[INFO] 2025-04-06 13:01:10 - CPU usage: 9.7% � scaling down
+[INFO] 2025-04-06 13:01:10 - Instance terminated
+[INFO] 2025-04-06 13:01:21 - CPU usage: 7.9%
+[INFO] 2025-04-06 13:01:32 - CPU usage: 6.9%
+[INFO] 2025-04-06 13:01:43 - CPU usage: 7.4%
+[INFO] 2025-04-06 13:01:54 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:02:05 - CPU usage: 2.2%
+[INFO] 2025-04-06 13:02:36 - Autoscaler initialized
+[INFO] 2025-04-06 13:02:36 - Monitoring started
+[INFO] 2025-04-06 13:02:37 - CPU usage: 4.7%
+[INFO] 2025-04-06 13:02:37 - CPU usage: 4.7% � scaling down
+[INFO] 2025-04-06 13:02:37 - Instance terminated
+[INFO] 2025-04-06 13:02:48 - CPU usage: 6.0%
+[INFO] 2025-04-06 13:02:59 - CPU usage: 9.3%
+[INFO] 2025-04-06 13:03:10 - CPU usage: 6.5%
+[INFO] 2025-04-06 13:03:21 - CPU usage: 9.0%
+[INFO] 2025-04-06 13:03:32 - CPU usage: 7.9%
+[INFO] 2025-04-06 13:03:43 - CPU usage: 12.1%
+[INFO] 2025-04-06 13:03:54 - CPU usage: 9.1%
+[INFO] 2025-04-06 13:04:05 - CPU usage: 4.1%
+[INFO] 2025-04-06 13:04:16 - CPU usage: 8.4%
+[INFO] 2025-04-06 13:04:28 - CPU usage: 8.3%
+[INFO] 2025-04-06 13:04:39 - CPU usage: 4.8%
+[INFO] 2025-04-06 13:04:50 - CPU usage: 15.7%
+[INFO] 2025-04-06 13:05:01 - CPU usage: 9.4%
+[INFO] 2025-04-06 13:05:12 - CPU usage: 6.9%
+[INFO] 2025-04-06 13:05:23 - CPU usage: 10.9%
+[INFO] 2025-04-06 13:05:34 - CPU usage: 4.5%
+[INFO] 2025-04-06 13:05:45 - CPU usage: 6.8%
+[INFO] 2025-04-06 13:05:56 - CPU usage: 8.7%
+[INFO] 2025-04-06 13:06:07 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:06:18 - CPU usage: 1.8%
+[INFO] 2025-04-06 13:06:29 - CPU usage: 8.9%
+[INFO] 2025-04-06 13:06:40 - CPU usage: 7.2%
+[INFO] 2025-04-06 13:06:51 - CPU usage: 11.6%
+[INFO] 2025-04-06 13:07:02 - CPU usage: 9.7%
+[INFO] 2025-04-06 13:07:13 - CPU usage: 3.9%
+[INFO] 2025-04-06 13:07:24 - CPU usage: 8.3%
+[INFO] 2025-04-06 13:07:35 - CPU usage: 8.4%
+[INFO] 2025-04-06 13:07:46 - CPU usage: 5.2%
+[INFO] 2025-04-06 13:07:57 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:08:08 - CPU usage: 7.2%
+[INFO] 2025-04-06 13:08:19 - CPU usage: 8.3%
+[INFO] 2025-04-06 13:08:30 - CPU usage: 6.9%
+[INFO] 2025-04-06 13:08:41 - CPU usage: 10.0%
+[INFO] 2025-04-06 13:08:52 - CPU usage: 8.1%
+[INFO] 2025-04-06 13:09:03 - CPU usage: 9.5%
+[INFO] 2025-04-06 13:09:14 - CPU usage: 9.7%
+[INFO] 2025-04-06 13:09:25 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:09:36 - CPU usage: 6.6%
+[INFO] 2025-04-06 13:09:47 - CPU usage: 5.5%
+[INFO] 2025-04-06 13:09:58 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:10:09 - CPU usage: 13.8%
+[INFO] 2025-04-06 13:10:20 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:10:31 - CPU usage: 6.8%
+[INFO] 2025-04-06 13:10:42 - CPU usage: 6.7%
+[INFO] 2025-04-06 13:10:53 - CPU usage: 4.5%
+[INFO] 2025-04-06 13:11:04 - CPU usage: 5.2%
+[INFO] 2025-04-06 13:11:15 - CPU usage: 7.4%
+[INFO] 2025-04-06 13:11:26 - CPU usage: 4.2%
+[INFO] 2025-04-06 13:11:37 - CPU usage: 3.6%
+[INFO] 2025-04-06 13:11:48 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:11:59 - CPU usage: 5.4%
+[INFO] 2025-04-06 13:12:10 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:12:21 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:12:32 - CPU usage: 4.6%
+[INFO] 2025-04-06 13:12:43 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:12:54 - CPU usage: 4.2%
+[INFO] 2025-04-06 13:13:05 - CPU usage: 5.2%
+[INFO] 2025-04-06 13:13:16 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:13:27 - CPU usage: 3.4%
+[INFO] 2025-04-06 13:13:38 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:13:49 - CPU usage: 3.6%
+[INFO] 2025-04-06 13:14:00 - CPU usage: 4.2%
+[INFO] 2025-04-06 13:14:11 - CPU usage: 3.5%
+[INFO] 2025-04-06 13:14:22 - CPU usage: 3.3%
+[INFO] 2025-04-06 13:14:33 - CPU usage: 2.6%
+[INFO] 2025-04-06 13:14:44 - CPU usage: 3.0%
+[INFO] 2025-04-06 13:14:55 - CPU usage: 3.4%
+[INFO] 2025-04-06 13:15:06 - CPU usage: 2.5%
+[INFO] 2025-04-06 13:15:17 - CPU usage: 5.8%
+[INFO] 2025-04-06 13:15:28 - CPU usage: 7.5%
+[INFO] 2025-04-06 13:15:39 - CPU usage: 4.1%
+[INFO] 2025-04-06 13:15:50 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:16:01 - CPU usage: 5.7%
+[INFO] 2025-04-06 13:16:12 - CPU usage: 3.6%
+[INFO] 2025-04-06 13:16:23 - CPU usage: 4.3%
+[INFO] 2025-04-06 13:16:34 - CPU usage: 7.8%
+[INFO] 2025-04-06 13:16:45 - CPU usage: 3.2%
+[INFO] 2025-04-06 13:16:56 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:17:07 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:17:18 - CPU usage: 3.3%
+[INFO] 2025-04-06 13:17:29 - CPU usage: 4.0%
+[INFO] 2025-04-06 13:17:40 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:17:51 - CPU usage: 5.7%
+[INFO] 2025-04-06 13:18:02 - CPU usage: 4.1%
+[INFO] 2025-04-06 13:18:13 - CPU usage: 2.2%
+[INFO] 2025-04-06 13:18:24 - CPU usage: 2.6%
+[INFO] 2025-04-06 13:18:35 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:18:46 - CPU usage: 4.4%
+[INFO] 2025-04-06 13:18:57 - CPU usage: 3.9%
+[INFO] 2025-04-06 13:19:08 - CPU usage: 3.7%
+[INFO] 2025-04-06 13:19:19 - CPU usage: 3.0%
+[INFO] 2025-04-06 13:19:30 - CPU usage: 2.2%
+[INFO] 2025-04-06 13:19:41 - CPU usage: 1.8%
+[INFO] 2025-04-06 13:19:52 - CPU usage: 3.2%
+[INFO] 2025-04-06 13:20:03 - CPU usage: 5.5%
+[INFO] 2025-04-06 13:20:14 - CPU usage: 2.8%
+[INFO] 2025-04-06 13:20:25 - CPU usage: 2.2%
+[INFO] 2025-04-06 13:20:36 - CPU usage: 9.2%
+[INFO] 2025-04-06 13:20:47 - CPU usage: 9.7%
+[INFO] 2025-04-06 13:20:58 - CPU usage: 8.6%
+[INFO] 2025-04-06 13:21:09 - CPU usage: 4.7%
+[INFO] 2025-04-06 13:21:20 - CPU usage: 6.3%
+[INFO] 2025-04-06 13:21:31 - CPU usage: 4.3%
+[INFO] 2025-04-06 13:21:42 - CPU usage: 3.0%
+[INFO] 2025-04-06 13:21:53 - CPU usage: 7.0%
+[INFO] 2025-04-06 13:22:04 - CPU usage: 3.9%
+[INFO] 2025-04-06 13:22:15 - CPU usage: 5.7%
+[INFO] 2025-04-06 13:22:26 - CPU usage: 5.7%
+[INFO] 2025-04-06 13:22:37 - CPU usage: 6.4%
+[INFO] 2025-04-06 13:22:48 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:22:59 - CPU usage: 7.6%
+[INFO] 2025-04-06 13:23:10 - CPU usage: 3.7%
+[INFO] 2025-04-06 13:23:21 - CPU usage: 3.5%
+[INFO] 2025-04-06 13:23:32 - CPU usage: 3.2%
+[INFO] 2025-04-06 13:23:43 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:23:54 - CPU usage: 3.5%
+[INFO] 2025-04-06 13:24:05 - CPU usage: 3.5%
+[INFO] 2025-04-06 13:24:17 - CPU usage: 3.5%
+[INFO] 2025-04-06 13:24:28 - CPU usage: 2.9%
+[INFO] 2025-04-06 13:24:39 - CPU usage: 2.7%
+[INFO] 2025-04-06 13:24:50 - CPU usage: 2.8%
+[INFO] 2025-04-06 13:25:01 - CPU usage: 4.4%
+[INFO] 2025-04-06 13:25:12 - CPU usage: 3.6%
+[INFO] 2025-04-06 13:25:23 - CPU usage: 5.4%
+[INFO] 2025-04-06 13:25:34 - CPU usage: 6.3%
+[INFO] 2025-04-06 13:25:45 - CPU usage: 4.2%
+[INFO] 2025-04-06 13:25:56 - CPU usage: 4.4%
+[INFO] 2025-04-06 13:26:07 - CPU usage: 2.6%
+[INFO] 2025-04-06 13:26:18 - CPU usage: 3.2%
+[INFO] 2025-04-06 13:26:29 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:26:40 - CPU usage: 3.0%
+[INFO] 2025-04-06 13:26:51 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:27:02 - CPU usage: 5.6%
+[INFO] 2025-04-06 13:27:13 - CPU usage: 9.3%
+[INFO] 2025-04-06 13:27:24 - CPU usage: 4.3%
+[INFO] 2025-04-06 13:27:35 - CPU usage: 3.3%
+[INFO] 2025-04-06 13:27:46 - CPU usage: 3.9%
+[INFO] 2025-04-06 13:27:57 - CPU usage: 4.1%
+[INFO] 2025-04-06 13:28:08 - CPU usage: 4.0%
+[INFO] 2025-04-06 13:28:19 - CPU usage: 5.9%
+[INFO] 2025-04-06 13:28:30 - CPU usage: 4.7%
+[INFO] 2025-04-06 13:28:41 - CPU usage: 6.0%
+[INFO] 2025-04-06 13:28:52 - CPU usage: 2.8%
+[INFO] 2025-04-06 13:29:03 - CPU usage: 2.0%
+[INFO] 2025-04-06 13:29:14 - CPU usage: 2.9%
+[INFO] 2025-04-06 13:29:25 - CPU usage: 8.7%
+[INFO] 2025-04-06 13:29:36 - CPU usage: 5.2%
+[INFO] 2025-04-06 13:29:47 - CPU usage: 8.3%
+[INFO] 2025-04-06 13:29:58 - CPU usage: 4.0%
+[INFO] 2025-04-06 13:30:09 - CPU usage: 2.9%
+[INFO] 2025-04-06 13:30:20 - CPU usage: 6.7%
+[INFO] 2025-04-06 13:30:31 - CPU usage: 6.0%
+[INFO] 2025-04-06 13:30:42 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:30:53 - CPU usage: 4.5%
+[INFO] 2025-04-06 13:31:04 - CPU usage: 3.4%
+[INFO] 2025-04-06 13:31:15 - CPU usage: 3.1%
+[INFO] 2025-04-06 13:31:26 - CPU usage: 3.8%
+[INFO] 2025-04-06 13:31:37 - CPU usage: 3.3%
+[INFO] 2025-04-06 13:31:48 - CPU usage: 4.2%
+[INFO] 2025-04-06 13:31:59 - CPU usage: 4.6%
+[INFO] 2025-04-06 13:32:10 - CPU usage: 4.4%
+[INFO] 2025-04-06 13:32:21 - CPU usage: 4.5%
+[INFO] 2025-04-06 13:32:32 - CPU usage: 3.8%
+[INFO] 2025-04-07 13:53:58 - 🚀 Auto-Scaler Started
+[INFO] 2025-04-07 13:54:01 - CPU usage: 4.6%
+[INFO] 2025-04-07 13:54:01 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:54:01 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:54:34 - CPU usage: 3.5%
+[INFO] 2025-04-07 13:54:35 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:54:35 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:55:08 - CPU usage: 6.2%
+[INFO] 2025-04-07 13:55:08 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:55:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:55:41 - CPU usage: 1.9%
+[INFO] 2025-04-07 13:55:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:55:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:56:14 - CPU usage: 3.0%
+[INFO] 2025-04-07 13:56:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:56:14 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:56:47 - CPU usage: 6.9%
+[INFO] 2025-04-07 13:56:47 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:56:47 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:57:20 - CPU usage: 3.5%
+[INFO] 2025-04-07 13:57:20 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:57:20 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:57:53 - CPU usage: 4.7%
+[INFO] 2025-04-07 13:57:53 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:57:53 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:58:26 - CPU usage: 2.5%
+[INFO] 2025-04-07 13:58:26 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:58:26 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:58:59 - CPU usage: 5.0%
+[INFO] 2025-04-07 13:58:59 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:58:59 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 13:59:32 - CPU usage: 3.5%
+[INFO] 2025-04-07 13:59:32 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 13:59:33 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:00:06 - CPU usage: 4.1%
+[INFO] 2025-04-07 14:00:06 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:00:06 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:00:39 - CPU usage: 4.2%
+[INFO] 2025-04-07 14:00:39 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:00:39 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:01:12 - CPU usage: 4.1%
+[INFO] 2025-04-07 14:01:12 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:01:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:01:45 - CPU usage: 3.6%
+[INFO] 2025-04-07 14:01:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:01:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:02:19 - CPU usage: 34.8%
+[INFO] 2025-04-07 14:02:53 - CPU usage: 52.1%
+[INFO] 2025-04-07 14:03:26 - CPU usage: 100.0%
+[INFO] 2025-04-07 14:03:26 - 🔥 High CPU detected - Triggering scale UP
+[INFO] 2025-04-07 14:03:34 - [+] Scaled UP: Running 2 'backend' containers.
+[INFO] 2025-04-07 14:04:07 - CPU usage: 4.8%
+[INFO] 2025-04-07 14:04:07 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:04:18 - [-] Scaled DOWN: Running 1 'backend' containers.
+[INFO] 2025-04-07 14:04:51 - CPU usage: 100.0%
+[INFO] 2025-04-07 14:04:51 - 🔥 High CPU detected - Triggering scale UP
+[INFO] 2025-04-07 14:04:59 - [+] Scaled UP: Running 2 'backend' containers.
+[INFO] 2025-04-07 14:05:32 - CPU usage: 100.0%
+[INFO] 2025-04-07 14:05:32 - 🔥 High CPU detected - Triggering scale UP
+[INFO] 2025-04-07 14:05:40 - [+] Scaled UP: Running 3 'backend' containers.
+[INFO] 2025-04-07 14:06:13 - CPU usage: 100.0%
+[INFO] 2025-04-07 14:06:13 - 🔥 High CPU detected - Triggering scale UP
+[INFO] 2025-04-07 14:06:22 - [+] Scaled UP: Running 4 'backend' containers.
+[INFO] 2025-04-07 14:06:55 - CPU usage: 2.7%
+[INFO] 2025-04-07 14:06:55 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:07:05 - [-] Scaled DOWN: Running 3 'backend' containers.
+[INFO] 2025-04-07 14:07:38 - CPU usage: 4.8%
+[INFO] 2025-04-07 14:07:38 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:07:49 - [-] Scaled DOWN: Running 2 'backend' containers.
+[INFO] 2025-04-07 14:08:22 - CPU usage: 2.1%
+[INFO] 2025-04-07 14:08:22 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:08:33 - [-] Scaled DOWN: Running 1 'backend' containers.
+[INFO] 2025-04-07 14:09:06 - CPU usage: 4.4%
+[INFO] 2025-04-07 14:09:06 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:09:06 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:09:39 - CPU usage: 1.5%
+[INFO] 2025-04-07 14:09:39 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:09:39 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:10:12 - CPU usage: 1.2%
+[INFO] 2025-04-07 14:10:12 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:10:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:10:45 - CPU usage: 1.6%
+[INFO] 2025-04-07 14:10:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:10:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:11:18 - CPU usage: 1.5%
+[INFO] 2025-04-07 14:11:18 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:11:18 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:11:51 - CPU usage: 0.9%
+[INFO] 2025-04-07 14:11:51 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:11:51 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:12:24 - CPU usage: 1.7%
+[INFO] 2025-04-07 14:12:24 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:12:25 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:12:58 - CPU usage: 2.2%
+[INFO] 2025-04-07 14:12:58 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:12:58 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:13:31 - CPU usage: 3.9%
+[INFO] 2025-04-07 14:13:31 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:13:31 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:14:04 - CPU usage: 4.6%
+[INFO] 2025-04-07 14:14:04 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:14:04 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:14:37 - CPU usage: 6.0%
+[INFO] 2025-04-07 14:14:37 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:14:37 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:15:10 - CPU usage: 1.2%
+[INFO] 2025-04-07 14:15:10 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:15:10 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:15:43 - CPU usage: 1.8%
+[INFO] 2025-04-07 14:15:43 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:15:43 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:16:16 - CPU usage: 1.4%
+[INFO] 2025-04-07 14:16:16 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:16:16 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:16:49 - CPU usage: 0.7%
+[INFO] 2025-04-07 14:16:49 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:16:49 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:17:22 - CPU usage: 5.0%
+[INFO] 2025-04-07 14:17:22 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:17:22 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:17:55 - CPU usage: 4.5%
+[INFO] 2025-04-07 14:17:55 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:17:55 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:18:28 - CPU usage: 1.5%
+[INFO] 2025-04-07 14:18:28 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:18:28 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:19:01 - CPU usage: 1.8%
+[INFO] 2025-04-07 14:19:01 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:19:01 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:19:34 - CPU usage: 2.2%
+[INFO] 2025-04-07 14:19:34 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:19:35 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:20:08 - CPU usage: 2.1%
+[INFO] 2025-04-07 14:20:08 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:20:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:20:41 - CPU usage: 1.0%
+[INFO] 2025-04-07 14:20:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:20:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:21:14 - CPU usage: 3.6%
+[INFO] 2025-04-07 14:21:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:21:14 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:21:47 - CPU usage: 4.0%
+[INFO] 2025-04-07 14:21:47 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:21:47 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:22:20 - CPU usage: 7.8%
+[INFO] 2025-04-07 14:22:20 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:22:20 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:22:53 - CPU usage: 1.9%
+[INFO] 2025-04-07 14:22:53 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:22:53 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:23:26 - CPU usage: 2.4%
+[INFO] 2025-04-07 14:23:26 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:23:26 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:23:59 - CPU usage: 2.4%
+[INFO] 2025-04-07 14:23:59 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:23:59 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:24:32 - CPU usage: 2.9%
+[INFO] 2025-04-07 14:24:32 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:24:32 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:25:05 - CPU usage: 2.7%
+[INFO] 2025-04-07 14:25:05 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:25:05 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:25:38 - CPU usage: 2.1%
+[INFO] 2025-04-07 14:25:38 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:25:38 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:26:11 - CPU usage: 5.9%
+[INFO] 2025-04-07 14:26:11 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:26:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:26:45 - CPU usage: 3.5%
+[INFO] 2025-04-07 14:26:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:26:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:27:18 - CPU usage: 23.4%
+[INFO] 2025-04-07 14:27:18 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:27:18 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:27:51 - CPU usage: 3.5%
+[INFO] 2025-04-07 14:27:51 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:27:51 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:28:24 - CPU usage: 4.3%
+[INFO] 2025-04-07 14:28:24 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:28:24 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:28:57 - CPU usage: 5.0%
+[INFO] 2025-04-07 14:28:57 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:28:57 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:29:30 - CPU usage: 2.0%
+[INFO] 2025-04-07 14:29:30 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:29:30 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:30:03 - CPU usage: 2.4%
+[INFO] 2025-04-07 14:30:03 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:30:03 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:30:36 - CPU usage: 1.6%
+[INFO] 2025-04-07 14:30:37 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:30:37 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:31:10 - CPU usage: 1.0%
+[INFO] 2025-04-07 14:31:10 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:31:10 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:31:43 - CPU usage: 1.4%
+[INFO] 2025-04-07 14:31:43 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:31:43 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:32:16 - CPU usage: 1.5%
+[INFO] 2025-04-07 14:32:16 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:32:16 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:32:49 - CPU usage: 1.2%
+[INFO] 2025-04-07 14:32:49 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:32:49 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:33:22 - CPU usage: 1.5%
+[INFO] 2025-04-07 14:33:22 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:33:22 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:33:55 - CPU usage: 5.9%
+[INFO] 2025-04-07 14:33:55 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:33:55 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:34:28 - CPU usage: 1.8%
+[INFO] 2025-04-07 14:34:28 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:34:28 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:35:01 - CPU usage: 5.4%
+[INFO] 2025-04-07 14:35:01 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:35:01 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:35:34 - CPU usage: 1.9%
+[INFO] 2025-04-07 14:35:34 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:35:34 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:36:07 - CPU usage: 1.6%
+[INFO] 2025-04-07 14:36:07 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:36:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:36:41 - CPU usage: 6.4%
+[INFO] 2025-04-07 14:36:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:36:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:37:14 - CPU usage: 1.1%
+[INFO] 2025-04-07 14:37:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:37:14 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:37:47 - CPU usage: 8.6%
+[INFO] 2025-04-07 14:37:47 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:37:47 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:38:20 - CPU usage: 6.0%
+[INFO] 2025-04-07 14:38:20 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:38:20 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:38:53 - CPU usage: 10.4%
+[INFO] 2025-04-07 14:38:53 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:38:53 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:39:26 - CPU usage: 7.3%
+[INFO] 2025-04-07 14:39:26 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:39:26 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:39:59 - CPU usage: 14.5%
+[INFO] 2025-04-07 14:39:59 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:39:59 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:40:32 - CPU usage: 5.0%
+[INFO] 2025-04-07 14:40:32 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:40:32 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:41:05 - CPU usage: 8.9%
+[INFO] 2025-04-07 14:41:05 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:41:05 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:41:38 - CPU usage: 3.6%
+[INFO] 2025-04-07 14:41:38 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:41:38 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:42:11 - CPU usage: 9.1%
+[INFO] 2025-04-07 14:42:11 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:42:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:42:45 - CPU usage: 8.1%
+[INFO] 2025-04-07 14:42:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:42:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:43:18 - CPU usage: 5.8%
+[INFO] 2025-04-07 14:43:18 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:43:18 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:43:51 - CPU usage: 4.4%
+[INFO] 2025-04-07 14:43:51 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:43:51 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:44:24 - CPU usage: 6.2%
+[INFO] 2025-04-07 14:44:24 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:44:24 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:44:57 - CPU usage: 4.3%
+[INFO] 2025-04-07 14:44:57 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:44:57 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:45:49 - CPU usage: 3.9%
+[INFO] 2025-04-07 14:45:49 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:45:49 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:46:22 - CPU usage: 6.9%
+[INFO] 2025-04-07 14:46:22 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:46:22 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:46:55 - CPU usage: 3.1%
+[INFO] 2025-04-07 14:46:55 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:46:55 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:47:28 - CPU usage: 16.3%
+[INFO] 2025-04-07 14:47:28 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:47:29 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:48:02 - CPU usage: 4.2%
+[INFO] 2025-04-07 14:48:02 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:48:02 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:48:35 - CPU usage: 4.0%
+[INFO] 2025-04-07 14:48:35 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:48:35 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:49:08 - CPU usage: 6.0%
+[INFO] 2025-04-07 14:49:08 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:49:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:49:41 - CPU usage: 3.1%
+[INFO] 2025-04-07 14:49:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:49:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:50:14 - CPU usage: 2.3%
+[INFO] 2025-04-07 14:50:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:50:14 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:50:47 - CPU usage: 4.7%
+[INFO] 2025-04-07 14:50:47 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:50:47 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:51:20 - CPU usage: 3.3%
+[INFO] 2025-04-07 14:51:20 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:51:20 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:51:53 - CPU usage: 4.4%
+[INFO] 2025-04-07 14:51:53 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:51:53 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:52:26 - CPU usage: 11.6%
+[INFO] 2025-04-07 14:52:26 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:52:26 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:52:59 - CPU usage: 20.8%
+[INFO] 2025-04-07 14:52:59 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:52:59 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:53:32 - CPU usage: 5.3%
+[INFO] 2025-04-07 14:53:32 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:53:33 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:54:06 - CPU usage: 2.6%
+[INFO] 2025-04-07 14:54:06 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:54:06 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:54:39 - CPU usage: 4.0%
+[INFO] 2025-04-07 14:54:39 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:54:39 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:55:12 - CPU usage: 6.1%
+[INFO] 2025-04-07 14:55:12 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:55:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:55:45 - CPU usage: 1.8%
+[INFO] 2025-04-07 14:55:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:55:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:56:18 - CPU usage: 1.8%
+[INFO] 2025-04-07 14:56:18 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:56:18 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:56:51 - CPU usage: 8.3%
+[INFO] 2025-04-07 14:56:51 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:56:51 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 14:57:24 - CPU usage: 0.8%
+[INFO] 2025-04-07 14:57:24 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 14:57:24 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:20:35 - CPU usage: 28.3%
+[INFO] 2025-04-07 15:21:08 - CPU usage: 0.4%
+[INFO] 2025-04-07 15:21:08 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:21:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:21:41 - CPU usage: 1.2%
+[INFO] 2025-04-07 15:21:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:21:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:22:14 - CPU usage: 2.5%
+[INFO] 2025-04-07 15:22:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:22:14 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:22:47 - CPU usage: 2.0%
+[INFO] 2025-04-07 15:22:47 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:22:47 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:23:20 - CPU usage: 2.7%
+[INFO] 2025-04-07 15:23:20 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:23:20 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:23:53 - CPU usage: 0.6%
+[INFO] 2025-04-07 15:23:53 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:23:54 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:24:27 - CPU usage: 3.1%
+[INFO] 2025-04-07 15:24:27 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:24:27 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:25:00 - CPU usage: 1.6%
+[INFO] 2025-04-07 15:25:00 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:25:00 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:25:33 - CPU usage: 0.9%
+[INFO] 2025-04-07 15:25:33 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:25:33 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:26:06 - CPU usage: 4.3%
+[INFO] 2025-04-07 15:26:06 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:26:06 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:26:39 - CPU usage: 1.3%
+[INFO] 2025-04-07 15:26:39 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:26:39 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:27:12 - CPU usage: 5.1%
+[INFO] 2025-04-07 15:27:12 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:27:12 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:27:45 - CPU usage: 2.8%
+[INFO] 2025-04-07 15:27:45 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:27:45 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:28:18 - CPU usage: 1.4%
+[INFO] 2025-04-07 15:28:18 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:28:18 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:28:51 - CPU usage: 0.9%
+[INFO] 2025-04-07 15:28:51 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:28:51 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:29:24 - CPU usage: 0.8%
+[INFO] 2025-04-07 15:29:24 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:29:24 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:29:57 - CPU usage: 1.7%
+[INFO] 2025-04-07 15:29:57 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:29:57 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:30:30 - CPU usage: 3.4%
+[INFO] 2025-04-07 15:30:30 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:30:30 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:31:03 - CPU usage: 0.9%
+[INFO] 2025-04-07 15:31:03 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:31:04 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:31:37 - CPU usage: 1.3%
+[INFO] 2025-04-07 15:31:37 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:31:37 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:32:10 - CPU usage: 1.0%
+[INFO] 2025-04-07 15:32:10 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:32:10 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:32:43 - CPU usage: 0.8%
+[INFO] 2025-04-07 15:32:43 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:32:43 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:33:16 - CPU usage: 3.9%
+[INFO] 2025-04-07 15:33:16 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:33:16 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:33:49 - CPU usage: 1.4%
+[INFO] 2025-04-07 15:33:49 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:33:49 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:34:22 - CPU usage: 4.6%
+[INFO] 2025-04-07 15:34:22 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:34:22 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:34:55 - CPU usage: 1.0%
+[INFO] 2025-04-07 15:34:55 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:34:55 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:35:28 - CPU usage: 7.8%
+[INFO] 2025-04-07 15:35:28 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:35:28 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:36:01 - CPU usage: 1.3%
+[INFO] 2025-04-07 15:36:01 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:36:01 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:36:34 - CPU usage: 0.8%
+[INFO] 2025-04-07 15:36:34 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:36:34 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:37:07 - CPU usage: 1.4%
+[INFO] 2025-04-07 15:37:07 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:37:08 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:37:41 - CPU usage: 1.2%
+[INFO] 2025-04-07 15:37:41 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:37:41 - 🚫 Min containers reached. Cannot scale down.
+[INFO] 2025-04-07 15:38:14 - CPU usage: 4.1%
+[INFO] 2025-04-07 15:38:14 - ❄️  Low CPU detected - Triggering scale DOWN
+[INFO] 2025-04-07 15:38:14 - 🚫 Min containers reached. Cannot scale down.
