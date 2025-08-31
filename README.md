@@ -28,6 +28,10 @@ monitoring/ – Monitoring tools and scripts.
 
 docker-compose.yml – Orchestration file for multi-container setup.
 
+high_cpu.py – Script to simulate high CPU usage.
+
+scaling_log.txt – Logs related to autoscaling events.
+
 ## Prerequisites
 
 Docker (latest version recommended)
@@ -35,10 +39,6 @@ Docker (latest version recommended)
 Docker Compose
 
 Python 3.x (for high_cpu.py)
-
-high_cpu.py – Script to simulate high CPU usage.
-
-scaling_log.txt – Logs related to autoscaling events.
 
 ## Installation and Usage
 1.Clone this repository:
